@@ -4,5 +4,5 @@
 [<img src="ItemdePortifólioV7.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 [<img src="ItemdePortifólioV7.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 
-[<img src="ItemdePortifólioV7.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
-[<img src="ItemdePortifólioV7.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="MelhorItemDePort.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="MelhorItemDePort.png" height="170" alt="Chart containing my top languages" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
