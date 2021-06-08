@@ -4,5 +4,5 @@
 [<img src="ItemdePortifólioV7.png" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 [<img src="ItemdePortifólioV7.png" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 
-[<img src="MelhorItemDePort.PNG" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
-[<img src="MelhorItemDePort.PNG" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="MelhorItemDePort2.PNG" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="MelhorItemDePort2.PNG" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
