@@ -1,0 +1,50 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 302 145">
+    <defs>
+  <!-- define lines for text lies on -->
+        <path id="path1" d="M0,10 H190 M0,20 H190"></path>
+        <path id="path2" d="M0,0 H280 M-3,11 H280 M2,22 H280 M0,32 H280"></path>
+        <path id="path3" d="M-100,0 H80 M-100,18 H100 M-100,36 H100 M-100,0 H100"></path>
+ </defs>
+  <g id="Fundo">
+    <rect id="FundoPortfolio" x="1" y="1" width="300" height="143" rx="3.58" style="fill: #e1eaf2;stroke: #004bc8;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <path id="TrianguloEstetico" d="M301,51.5,251,.5h46a5.49,5.49,0,0,1,4,3,5.23,5.23,0,0,1,0,4Z" style="fill: #004bc8;stroke: #004bc8;stroke-miterlimit: 10"/>
+    <line id="LinhaDivisoria" x1="87.29" y1="110" x2="87.71" y2="132" style="fill: #666;stroke: #999;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+    <image id="ImgPucMinas" width="512" height="442" transform="translate(274.5 3) scale(0.05)" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <g id="BotaoVerificação">
+    <rect id="FormaBotão" x="93" y="104.5" width="203" height="34" rx="4" style="fill: #e5e5e5;stroke: #004bc8;stroke-miterlimit: 10"/>
+    <text id="TextoVerificacao" transform="translate(98.71 112.89)" style="font-size: 7px;font-family: ArialMT, Arial">
+        Para verificar a autenticidade da fonte,
+        <tspan x="121.8" y="0" style="font-family: Arial-BoldMT, Arial;font-weight: 700">
+        clique aqui
+        </tspan>
+        ou vá em:
+        <textPath xlink:href="#path1" style="font-size: 8px;fill: blue;font-family: Arial-ItalicMT, Arial;font-style: italic;text-decoration: underline">
+            https://github.com/ssmi-research-group/githubEngagementAnalysis
+        </textPath>
+    </text>
+  </g>
+  <g id="PeriodoProjeto">
+    <text id="Periodo" transform="translate(9.79 115.53)" style="font-size: 8px;font-family: Arial-BoldMT, Arial;font-weight: 700">Período do projeto:<tspan style="font-size: 7px"><tspan x="7.12" y="8.4">Início: </tspan><tspan x="29.67" y="8.4" style="font-family: ArialMT, Arial;font-weight: 400">19/03/2021</tspan><tspan x="64.71" y="8.4"> </tspan><tspan x="11.01" y="16.8">Fim: </tspan><tspan x="27.73" y="16.8" style="font-family: ArialMT, Arial;font-weight: 400">28/05/2021</tspan></tspan></text>
+  </g>
+  <g id="EngajamentoAluno">
+    <text id="TextoEngajamento" transform="translate(11.56 71.96)" style="font-size: 8px;font-family: ArialMT, Arial">
+        <textPath xlink:href="#path2"> O aluno <tspan style="font-weight: 700;">RBGoriginal</tspan> esteve <tspan style="font-weight: 700;">8 dias ativos</tspan> no projeto, taxa de participação em relação ao período do projeto de <tspan style="font-weight: 700;">15%</tspan>, obteve <tspan style="font-weight: 700;">90%</tspan> de persistência em seu período de atividade e desvio padrão de <tspan style="font-weight: 700;">5 dias </tspan> entre as atividades realizados.
+        </textPath>
+    </text>
+  </g>
+  <g id="InformaçõesAdicionais">
+    <text id="Equipe" transform="translate(11.56 54.65)" style="font-size: 7px;font-family: Arial-BoldMT, Arial;"><tspan style="font-weight: 700; font-size: 6pt">2</tspan> programadores</text>
+          
+  </g>
+  
+<g id="NomeProjeto">
+    <text id="TextoProjeto" transform="translate(8.96 30)" style="font-size: 11px;fill: #003a9b;font-family: ArialMT, Arial">Projeto:</text>
+    <text id="Nome" transform="translate(150 30)" style="font-size: 15px;fill: #003a9b;font-family: Arial-BoldMT, Arial;font-weight: 700; ">
+        <textPath xlink:href="#path3">Githubengagementanalysis</textPath>
+    </text>
+</g>
+    
+</svg>
+    
